@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
@@ -6,7 +5,7 @@
     </head>
     <body>
         <h1>APJ Abdul Kalam</h1>
-        <img src="file:///C:/Users/rajum/Downloads/pictures-of-late-abdul-kalam.webp" alt="Picture is here" height="50%" width="50%">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fpolitics-and-nation%2Fhc-restrains-party-from-using-name%2Fpictures-of-late-abdul-kalam%2Farticleshow%2F52146614.cms&psig=AOvVaw04lsRiiqRZlvvE9hSomJqX&ust=1603782131539000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC0ypTY0ewCFQAAAAAdAAAAABAD" alt="Picture is here" height="50%" width="50%">
         <h2>
            <li><a href="#sec1">Section 1</a></li>
            <li><a href="#sec2">section 2</a></li>
